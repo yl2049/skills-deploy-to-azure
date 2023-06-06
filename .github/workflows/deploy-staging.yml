@@ -10,6 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: yl2049-azure-ttt
+  
   AZURE_WEBAPP_NAME: yl2049-ttt-app
   ###############################################
 
